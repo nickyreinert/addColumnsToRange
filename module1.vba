@@ -1,5 +1,5 @@
 
-Sub Makro6()
+Sub addColumnsToNamedRange()
 
     lastColumn = Range("A1").SpecialCells(xlCellTypeLastCell).Column
 
